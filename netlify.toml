@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "https://raw.githubusercontent.com/knowler/dotfiles/main/.local/bin/install-dotfiles"
+  status = 200
